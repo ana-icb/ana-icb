@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ana-icb
+- 👋 Hi, I’m Ana
 - 👀 I’m interested in ... 🥁... los datos! 📊
 - 🌱 I’m currently learning ... SQL, R, Power BI, Tableau, and Python 🐍
 - 💞️ I’m looking to collaborate on ... big projects 🏋️‍♀️
