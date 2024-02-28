@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ana-icb
-- 👀 I’m interested in ... 🥁... DATA! 📊
+- 👀 I’m interested in ... 🥁... los datos! 📊
 - 🌱 I’m currently learning ... SQL, R, Power BI, Tableau, and Python 🐍
 - 💞️ I’m looking to collaborate on ... big projects 🏋️‍♀️
 - 📫 How to reach me ... capotebenaiges@gmail.com
